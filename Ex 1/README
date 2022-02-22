@@ -1,0 +1,10 @@
+cpp_ex1
+guy_lutsker
+207029448
+######
+this program will take two numbers in a galua filed of the users choise, and will preform arithmetical operations
+on those numbers, and also will divide the numbers into their prime factors.
+the program will ensure that the galua field generated is valid and then preform all of the arithmetics as if it was
+in the chosen galua field.
+the prime factors list will be generated using rho algorithm and if failed with a brute force way.
+the program will display the results to the user.

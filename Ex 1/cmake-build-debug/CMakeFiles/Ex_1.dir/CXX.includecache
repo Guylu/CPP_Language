@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GFNumber.cpp
+GFNumber.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GFNumber.h
+GField.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GField.h
+cassert
+-
+cmath
+-
+iostream
+-
+random
+-
+string
+-
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GFNumber.h
+GField.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GField.h
+iostream
+-
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GField.cpp
+GField.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GField.h
+GFNumber.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GFNumber.h
+cassert
+-
+string
+-
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GField.h
+iostream
+-
+iosfwd
+-
+cmath
+-
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/IntegerFactorization.cpp
+iostream
+-
+GFNumber.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 1/GFNumber.h
+cassert
+-
+

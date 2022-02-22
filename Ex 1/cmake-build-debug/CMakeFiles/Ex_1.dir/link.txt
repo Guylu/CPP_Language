@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Ex_1.dir/IntegerFactorization.cpp.o CMakeFiles/Ex_1.dir/GField.cpp.o CMakeFiles/Ex_1.dir/GFNumber.cpp.o  -o Ex_1.exe -Wl,--out-implib,libEx_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
