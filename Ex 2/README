@@ -1,0 +1,8 @@
+cpp_ex2
+guy_lutsker
+207029448
+##############
+this program will create fractal shapes and print them.
+the program will receive a path to a csv file.
+the file will be filled with instructions of which fractal to draw and to what dimension.
+the program will generate a fractal object from the options and print it to the user.

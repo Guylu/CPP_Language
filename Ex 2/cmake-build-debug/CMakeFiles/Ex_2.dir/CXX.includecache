@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/Fractal.cpp
+Fractal.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/Fractal.h
+cassert
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/cassert
+cmath
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/cmath
+iostream
+-
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/Fractal.h
+exception
+-
+
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/FractalDrawer.cpp
+iostream
+-
+Fractal.h
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/Fractal.h
+cmath
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/cmath
+fstream
+-
+string
+-
+vector
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/vector
+cstdlib
+-
+cassert
+/cygdrive/c/University/Year 1/Summer Semester/C++/EX's/Ex 2/cassert
+
